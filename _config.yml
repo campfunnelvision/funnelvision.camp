@@ -1,0 +1,10 @@
+# Site settings
+title: Camp Funnel Vision
+email: info@funnelvision.camp
+description: >
+  A carny-like oasis for the hungry, thirsty and visually stimulated.
+baseurl: ""
+url: "http://funnelvision.camp"
+
+# Build settings
+markdown: kramdown
