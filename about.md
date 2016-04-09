@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-We are a tightly-knit group made up of both returning and first time Burning Man community members.
-
-Our campmates include introverts, extroverts, teachers, engineers, and artists, and we each bring a unique perspective to designing an inviting and engaging camp.
+We're bringing Funnel Cakes to the playa!  2016 is our second year :)
 
 Questions?  Feel free to get in touch!
 
